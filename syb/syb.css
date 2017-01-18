@@ -1,0 +1,71 @@
+
+/* STYLE SHEET FOR HoMEPAGE.HTML */
+/* background-color: #cccccc */
+  
+body            { 
+            font-family: arial, verdana, helvetica; color: black;border: 14px solid green;font-size: 10pt; 
+  
+                 }
+
+h1		{
+	    font-family: arial sans-serif; color: green; font-size:36pt; font-weight: bold;
+		 }
+
+h2             { 
+            font-family: arial, sans-serif; color: black; font-size: 32pt; 
+  
+                 } 
+h3             { 
+            font-family: arial, sans-serif; color: black; font-size: 24pt; 
+  
+                 } 
+  
+h4             { 
+            font-family: arial, sans-serif; color: black; font-size: 18pt; 
+  
+                 } 
+
+h5             { 
+            font-family: arial, sans-serif; color: black; font-size: 13pt; 
+  
+                 } 
+p	       {
+	     text-align: center;
+		}	
+
+td		{
+	    text-align: center;
+		}	
+
+form		{
+	    text-align: center;
+		}	
+
+#nav
+{
+list-style-type:none;
+margin:0;
+padding:0;
+text-align:center
+}
+
+
+#nav li
+ { 
+display: inline;  
+} 
+
+#bg
+{ 
+background-image:url('images/biohazard.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center; 
+}
+
+
+
+
+
+
+
